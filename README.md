@@ -1,3 +1,3 @@
-# Mockup To Code #:
+# Mockup To Code #3: Horizontal Click Drag Scroll gallery
 
-Keywords: Responsive design, Advanced CSS, SASS, Grid, Flex-box
+Keywords: Advanced CSS, SASS, JS
